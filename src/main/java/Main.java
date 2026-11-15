@@ -49,7 +49,7 @@ public class Main {
                 "A new adoption application has been created for " + cat.getName()
         );
 
-        System.out.println();qq
+        System.out.println();
 
         System.out.println("=== ADOPTION APPLICATION ===");
         System.out.println("Applicant: " + application.getApplicantName());
